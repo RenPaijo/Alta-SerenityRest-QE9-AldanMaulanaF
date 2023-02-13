@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: Delete existing user
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 4.69 s <<< FAILURE! - in Delete existing user
+Delete existing user.Delete user with invalid parameter id #1  Time elapsed: 0.543 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <204>.
+
+
+Delete existing user.Delete user with invalid parameter id #2  Time elapsed: 0.524 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <204>.
+
+
+Delete existing user.Delete user with invalid parameter id #3  Time elapsed: 0.494 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <204>.
+
+

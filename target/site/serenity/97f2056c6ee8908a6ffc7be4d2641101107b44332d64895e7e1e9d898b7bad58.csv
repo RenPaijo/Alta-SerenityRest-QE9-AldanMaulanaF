@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get list of existing user","Get list user with invalid parameter page","FAILURE","2023-02-13T08:38:11.694+07:00[Asia/Bangkok]","0.0","0.3"

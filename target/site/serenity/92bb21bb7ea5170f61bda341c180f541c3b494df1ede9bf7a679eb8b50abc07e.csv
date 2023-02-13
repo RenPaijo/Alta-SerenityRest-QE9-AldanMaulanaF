@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Delete existing user","Delete user with invalid parameter id","FAILURE","2023-02-13T08:38:08.436+07:00[Asia/Bangkok]","0.0","1.61"
+"Get list of existing user","Get list user with invalid parameter page","FAILURE","2023-02-13T08:38:11.694+07:00[Asia/Bangkok]","0.0","0.3"
+"Get single resources","Get single resources with invalid id","FAILURE","2023-02-13T08:38:14.454+07:00[Asia/Bangkok]","0.0","0.4"
+"Put user","Put existing user with invalid id and valid input","FAILURE","2023-02-13T08:38:17.6+07:00[Asia/Bangkok]","0.0","1.41"

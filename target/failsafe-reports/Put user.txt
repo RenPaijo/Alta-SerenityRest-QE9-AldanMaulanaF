@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: Put user
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 2.901 s <<< FAILURE! - in Put user
+Put user.Put existing user with invalid id and valid input #1  Time elapsed: 0.478 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Put user.Put existing user with invalid id and valid input #2  Time elapsed: 0.456 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Put user.Put existing user with invalid id and valid input #3  Time elapsed: 0.467 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register account","Post new register user with valid json file","SUCCESS","2023-02-13T08:38:13.027+07:00[Asia/Bangkok]","0.0","0.49"
+"Register account","Post new register user with invalid json file","SUCCESS","2023-02-13T08:38:13.524+07:00[Asia/Bangkok]","0.0","0.49"

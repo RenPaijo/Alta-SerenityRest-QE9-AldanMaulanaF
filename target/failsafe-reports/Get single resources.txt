@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: Get single resources
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.842 s <<< FAILURE! - in Get single resources
+Get single resources.Get single resources with invalid id #1  Time elapsed: 0.13 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Get single resources.Get single resources with invalid id #2  Time elapsed: 0.133 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Get single resources.Get single resources with invalid id #3  Time elapsed: 0.133 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+

@@ -1,0 +1,17 @@
+starter\StepDefinitions\LoginUser.class
+starter\StepDefinitions\UpdateUserPut.class
+starter\StepDefinitions\DeleteUser.class
+starter\StepDefinitions\Register.class
+starter\reqresAPI\utilities\JsonSchema.class
+starter\StepDefinitions\ListUser.class
+starter\reqresAPI\Base.class
+starter\reqresAPI\utilities\ReqBody.class
+starter\StepDefinitions\SingleResources.class
+starter\reqresAPI\GetAPI.class
+starter\CucumberTestSuite.class
+starter\reqresAPI\DeleteAPI.class
+starter\reqresAPI\PostAPI.class
+starter\reqresAPI\utilities\ReqresResponses.class
+starter\StepDefinitions\SingleUser.class
+starter\reqresAPI\PutAPI.class
+starter\StepDefinitions\ListResource.class
